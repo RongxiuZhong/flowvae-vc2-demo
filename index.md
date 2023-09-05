@@ -21,4 +21,4 @@ We provide comparisons with other models: FLOW-VAE VC
 
 <p></p>
 
-### coming soon
+### audio samples coming soon
