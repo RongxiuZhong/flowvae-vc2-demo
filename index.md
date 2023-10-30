@@ -84,12 +84,12 @@ We provide comparisons with other models: FLOW-VAE VC
             </tr>
 
             <tr>
-              <td rowspan="4" style="vertical-align: top;">
+              <td rowspan="7" style="vertical-align: top;">
                 <audio id="player" controls style="width: 100%;">
                     <source src="audio/source/p286_119.wav" type="audio/wav" />
                 </audio>
               </td>
-              <td rowspan="4" style="vertical-align: top;">
+              <td rowspan="7" style="vertical-align: top;">
                 <audio id="player" controls style="width: 100%;">
                     <source src="audio/target/p374_032.wav" type="audio/wav" />
                 </audio>
