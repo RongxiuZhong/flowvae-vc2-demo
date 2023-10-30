@@ -8,6 +8,19 @@ Voice conversion (VC) seeks to modify one speaker’s voice to generate speech a
 
 <p></p>
 
+<!DOCTYPE html>
+<html lang="zh">
+    <head>
+        <meta charset="utf-8">
+        <title>图片标签</title>
+    </head>
+    <body>
+        <!--相对路径-->
+        <img src="fig/vc2.pdf"  alt="test" />
+    </body>
+</html>
+ 
+<p></p>
 ## Audio Demos
 
 This page contains voice conversion samples for FLOW-VAE VC2 applied to audio files from the [VCTK Corpus](https://datashare.ed.ac.uk/handle/10283/3443).
@@ -21,7 +34,7 @@ We provide comparisons with other models: FLOW-VAE VC
 
 <p></p>
 
-### audio samples coming soon
+### Seen-to-Seen Voice Conversion
 <!-- Source: M1 -->
 <div class="row">
     <div class="col-12 ml-auto">
@@ -220,28 +233,6 @@ We provide comparisons with other models: FLOW-VAE VC
               </td>
            </tr>
 
-           <tr>
-              <td style="width: 25%">
-                <audio id="player" controls style="width: 100%;">
-                    <source src="audio/source/p251_141.wav" type="audio/wav" />
-                </audio>
-              </td>
-              <td style="width: 25%">
-                <audio id="player" controls style="width: 100%;">
-                    <source src="audio/target/p275_158.wav" type="audio/wav" />
-                </audio>
-              </td>
-              <td style="width: 25%">
-                <audio id="player" controls style="width: 100%;">
-                    <source src="audio/flowvaevc1/18.wav" type="audio/wav" />
-                </audio>
-              </td>
-              <td style="width: 25%">
-                <audio id="player" controls style="width: 100%;">
-                    <source src="audio/flowvaevc2/18.wav" type="audio/wav" />
-                </audio>
-              </td>
-           </tr>
 
            <tr>
               <td style="width: 25%">
