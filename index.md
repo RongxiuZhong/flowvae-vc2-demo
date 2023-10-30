@@ -8,18 +8,9 @@ Voice conversion (VC) seeks to modify one speaker’s voice to generate speech a
 
 <p></p>
 
-<!DOCTYPE html>
-<html lang="zh">
-    <head>
-        <meta charset="utf-8">
-        <title>图片标签</title>
-    </head>
-    <body>
-        <!--相对路径-->
-        <img src="fig/vc2.pdf"  alt="test" />
-    </body>
-</html>
- 
+
+<img src="fig/vc2.pdf"  alt="test" />
+
 <p></p>
 ## Audio Demos
 
