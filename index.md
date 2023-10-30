@@ -59,42 +59,99 @@ We provide comparisons with other models: FLOW-VAE VC
                 </audio>
               </td>
             </tr>
+
             <tr>
-              <td><p>AutoVC</p>
+              <td rowspan="4" style="vertical-align: top;">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="audio/autovc/s2s/p241_302_p334_396.wav" type="audio/wav" />
+                    <source src="audio/source/p314_110.wav" type="audio/wav" />
                 </audio>
               </td>
-              <td><p>AutoVC-F0</p>
+              <td rowspan="4" style="vertical-align: top;">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="audio/autovc_f0/s2s/p241_302_p334_396.wav" type="audio/wav" />
+                    <source src="audio/target/p276_109.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 25%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/flowvaevc1/7.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 25%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/flowvaevc2/7.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
+
             <tr>
-              <td><p>Blow</p>
+              <td rowspan="4" style="vertical-align: top;">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="audio/blow/s2s/p241_302_p334_396.wav" type="audio/wav" />
+                    <source src="audio/source/p286_119.wav" type="audio/wav" />
                 </audio>
               </td>
-              <td><p>NVC-Net</p>
+              <td rowspan="4" style="vertical-align: top;">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="audio/nvcnet/s2s/p241_302_p334_396.wav" type="audio/wav" />
+                    <source src="audio/target/p374_032.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 25%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/flowvaevc1/9.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 25%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/flowvaevc2/9.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
+
             <tr>
-              <td><p><b>LVC-VC</b></p>
+              <td rowspan="4" style="vertical-align: top;">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="audio/lvc_vc/s2s/p241_302_p334_396.wav" type="audio/wav" />
+                    <source src="audio/source/p279_136.wav" type="audio/wav" />
                 </audio>
               </td>
-              <td><p><b>LVC-VC XL</b></p>
+              <td rowspan="4" style="vertical-align: top;">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="audio/lvc_vc_xl/s2s/p241_302_p334_396.wav" type="audio/wav" />
+                    <source src="audio/target/p283_275.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 25%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/flowvaevc1/1.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 25%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/flowvaevc2/1.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
+
+            <tr>
+              <td rowspan="4" style="vertical-align: top;">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/source/p269_274.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td rowspan="4" style="vertical-align: top;">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/target/p251_240.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 25%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/flowvaevc1/19.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 25%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="audio/flowvaevc2/19.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+
 
             <!-- M1 to F -->
             <tr>
