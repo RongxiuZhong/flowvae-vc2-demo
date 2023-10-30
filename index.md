@@ -38,12 +38,12 @@ We provide comparisons with other models: FLOW-VAE VC
           <!-- M1 to M -->
           <tbody>
             <tr>
-              <td rowspan="4" style="vertical-align: top;">
+              <td style="width: 25%">
                 <audio id="player" controls style="width: 100%;">
                     <source src="audio/source/p283_270.wav" type="audio/wav" />
                 </audio>
               </td>
-              <td rowspan="4" style="vertical-align: top;">
+              <td style="width: 25%">
                 <audio id="player" controls style="width: 100%;">
                     <source src="audio/target/p237_259.wav" type="audio/wav" />
                 </audio>
@@ -61,12 +61,12 @@ We provide comparisons with other models: FLOW-VAE VC
             </tr>
 
             <tr>
-              <td rowspan="4" style="vertical-align: top;">
+              <td style="width: 25%">
                 <audio id="player" controls style="width: 100%;">
                     <source src="audio/source/p314_110.wav" type="audio/wav" />
                 </audio>
               </td>
-              <td rowspan="4" style="vertical-align: top;">
+              <td style="width: 25%">
                 <audio id="player" controls style="width: 100%;">
                     <source src="audio/target/p276_109.wav" type="audio/wav" />
                 </audio>
@@ -84,12 +84,12 @@ We provide comparisons with other models: FLOW-VAE VC
             </tr>
 
             <tr>
-              <td rowspan="7" style="vertical-align: top;">
+              <td style="width: 25%">
                 <audio id="player" controls style="width: 100%;">
                     <source src="audio/source/p286_119.wav" type="audio/wav" />
                 </audio>
               </td>
-              <td rowspan="7" style="vertical-align: top;">
+              <td style="width: 25%">
                 <audio id="player" controls style="width: 100%;">
                     <source src="audio/target/p374_032.wav" type="audio/wav" />
                 </audio>
@@ -107,12 +107,12 @@ We provide comparisons with other models: FLOW-VAE VC
             </tr>
 
             <tr>
-              <td rowspan="4" style="vertical-align: top;">
+              <td style="width: 25%">
                 <audio id="player" controls style="width: 100%;">
                     <source src="audio/source/p279_136.wav" type="audio/wav" />
                 </audio>
               </td>
-              <td rowspan="4" style="vertical-align: top;">
+              <td style="width: 25%">
                 <audio id="player" controls style="width: 100%;">
                     <source src="audio/target/p283_275.wav" type="audio/wav" />
                 </audio>
@@ -130,12 +130,12 @@ We provide comparisons with other models: FLOW-VAE VC
             </tr>
 
             <tr>
-              <td rowspan="4" style="vertical-align: top;">
+              <td style="width: 25%">
                 <audio id="player" controls style="width: 100%;">
                     <source src="audio/source/p269_274.wav" type="audio/wav" />
                 </audio>
               </td>
-              <td rowspan="4" style="vertical-align: top;">
+              <td style="width: 25%">
                 <audio id="player" controls style="width: 100%;">
                     <source src="audio/target/p251_240.wav" type="audio/wav" />
                 </audio>
