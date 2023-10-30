@@ -8,8 +8,8 @@ Voice conversion (VC) seeks to modify one speaker’s voice to generate speech a
 
 <p></p>
 
-<div  align="center">
-<img src="fig/vc2.pdf" />
+<div style="text-align: center;">
+    <img src="fig/vc2.pdf" alt="Image Description">
 </div>
 
 <p></p>
