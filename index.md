@@ -150,68 +150,7 @@ We provide comparisons with other models: FLOW-VAE VC
                     <source src="audio/flowvaevc2/19.wav" type="audio/wav" />
                 </audio>
               </td>
-            </tr>
-
-
-            <!-- M1 to F -->
-            <tr>
-              <td rowspan="7" style="vertical-align: top;"><p>p241 (Male)</p>
-                <audio id="player" controls style="width: 100%;">
-                    <source src="audio/vctk_orig/p241_237.wav" type="audio/wav" />
-                </audio>
-              </td>
-              <td rowspan="7" style="vertical-align: top;"><p>p228 (Female)</p>
-                <audio id="player" controls style="width: 100%;">
-                    <source src="audio/vctk_orig/p228_313.wav" type="audio/wav" />
-                </audio>
-              </td>
-              <td style="width: 25%"><p>AdaIN-VC</p>
-                <audio id="player" controls style="width: 100%;">
-                    <source src="audio/adain/s2s/p241_237_p228_313.wav" type="audio/wav" />
-                </audio>
-              </td>
-              <td style="width: 25%"><p>AGAIN-VC</p>
-                <audio id="player" controls style="width: 100%;">
-                    <source src="audio/again/s2s/p241_237_p228_313.wav" type="audio/wav" />
-                </audio>
-              </td>
-            </tr>
-            <tr>
-              <td><p>AutoVC</p>
-                <audio id="player" controls style="width: 100%;">
-                    <source src="audio/autovc/s2s/p241_237_p228_313.wav" type="audio/wav" />
-                </audio>
-              </td>
-              <td><p>AutoVC-F0</p>
-                <audio id="player" controls style="width: 100%;">
-                    <source src="audio/autovc_f0/s2s/p241_237_p228_313.wav" type="audio/wav" />
-                </audio>
-              </td>
-            </tr>
-            <tr>
-              <td><p>Blow</p>
-                <audio id="player" controls style="width: 100%;">
-                    <source src="audio/blow/s2s/p241_237_p228_313.wav" type="audio/wav" />
-                </audio>
-              </td>
-              <td><p>NVC-Net</p>
-                <audio id="player" controls style="width: 100%;">
-                    <source src="audio/nvcnet/s2s/p241_237_p228_313.wav" type="audio/wav" />
-                </audio>
-              </td>
-            </tr>
-            <tr>
-              <td><p><b>LVC-VC</b></p>
-                <audio id="player" controls style="width: 100%;">
-                    <source src="audio/lvc_vc/s2s/p241_237_p228_313.wav" type="audio/wav" />
-                </audio>
-              </td>
-              <td><p><b>LVC-VC XL</b></p>
-                <audio id="player" controls style="width: 100%;">
-                    <source src="audio/lvc_vc_xl/s2s/p241_237_p228_313.wav" type="audio/wav" />
-                </audio>
-              </td>
-            </tr>
+           </tr>
           </tbody>
         </table>
     </div>
