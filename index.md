@@ -1,6 +1,6 @@
 # FLOW-VAE VC2: RETHINKING CONDITIONAL METHODS FOR FLOW-VAE VC
 
-<font size="5">Rongxiu Zhong, Shilei Zhang, Yannan Chen,Yong Ma, Ying Liu, Huibao Yang, Junlan Feng </font>
+<font size="5">Rongxiu Zhong, Shilei Zhang, Yanan Chen,Yong Ma, Ying Liu, Huibao Yang, Junlan Feng </font>
 
 ## Abstract
 
