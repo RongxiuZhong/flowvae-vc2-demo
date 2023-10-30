@@ -182,12 +182,12 @@ We provide comparisons with other models: FLOW-VAE VC
            <tr>
               <td style="width: 25%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="audio/source/p301_407.wav" type="audio/wav" />
+                    <source src="audio/source/p311_141.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 25%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="audio/target/p284_414.wav" type="audio/wav" />
+                    <source src="audio/target/p278_217.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 25%">
@@ -360,29 +360,6 @@ We provide comparisons with other models: FLOW-VAE VC
               <td style="width: 25%">
                 <audio id="player" controls style="width: 100%;">
                     <source src="audio/flowvaevc2/6.wav" type="audio/wav" />
-                </audio>
-              </td>
-            </tr>
-
-            <tr>
-              <td style="width: 25%">
-                <audio id="player" controls style="width: 100%;">
-                    <source src="audio/source/p259_176.wav" type="audio/wav" />
-                </audio>
-              </td>
-              <td style="width: 25%">
-                <audio id="player" controls style="width: 100%;">
-                    <source src="audio/target/p284_240.wav" type="audio/wav" />
-                </audio>
-              </td>
-              <td style="width: 25%">
-                <audio id="player" controls style="width: 100%;">
-                    <source src="audio/flowvaevc1/12.wav" type="audio/wav" />
-                </audio>
-              </td>
-              <td style="width: 25%">
-                <audio id="player" controls style="width: 100%;">
-                    <source src="audio/flowvaevc2/12.wav" type="audio/wav" />
                 </audio>
               </td>
             </tr>
