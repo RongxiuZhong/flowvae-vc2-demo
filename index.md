@@ -12,6 +12,8 @@ Voice conversion (VC) seeks to modify one speaker’s voice to generate speech a
     <img src="fig/vc2.jpg" alt="Image Description" />
 </div>
 
+The architecture of Flow-VAE VC2. (a) Latent variables g from the speaker encoder. (b) Overview training procedure.
+(c) Voice conversion from the source speaker utterance to target speaker timbre in the inference stage.
 <p></p>
 ## Audio Demos
 
