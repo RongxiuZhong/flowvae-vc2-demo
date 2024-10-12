@@ -10,7 +10,7 @@ limitations, we propose Flow-VAE VC2, it incorporates Mix-Style Layer Normalizat
 <p></p>
 
 <div  align="center">
-    <img src="fig/vc-f1.pdf" alt="Image Description" />
+    <img src="fig/vc2.png" alt="Image Description" />
 </div>
 
 The architecture of Flow-VAE VC2. (a) Latent variables g from the speaker encoder. (b) Overview training procedure. (c) Voice conversion from the
