@@ -22,14 +22,9 @@ This page contains voice conversion samples for FLOW-VAE VC2 applied to audio fi
 We provide comparisons with other models: FLOW-VAE VC
 
 
-### Navigation
-
-* [Seen-to-Seen Voice Conversion](#seen-to-seen-voice-conversion)
-* [Unseen-to-Unseen Voice Conversion](#unseen-to-unseen-voice-conversion)
-
 <p></p>
 
-### Seen-to-Seen Voice Conversion
+coming soooooon
 <!-- Source: M1 -->
 <div class="row">
     <div class="col-12 ml-auto">
